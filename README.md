@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 # Hi there, I´m Nicolas! 👾
 
 ### I'm a full stack web developer, eager to make the most of what I've recently learned, get my start in the world of the software development, and keep on learning.
