@@ -1,5 +1,7 @@
 # Hi there, I´m Nicolas! 👾
 
+(THIS IS OLD. PLEASE CHECK LINKEDIN. THANKS!)
+
 ### I'm a full stack web developer, eager to make the most of what I've recently learned, get my start in the world of the software development, and keep on learning.
 
 Im also a videogame enjoyer and 3D enthusiast. I have a nice conection to internet, so i usually build game servers to manage in my free time. 
